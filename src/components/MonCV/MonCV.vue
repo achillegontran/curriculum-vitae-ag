@@ -91,9 +91,9 @@
                         <div class="col text-left">Restaurant 21-22, île Maurice</div>
                     </div>
                     <div class="row">
-                        <div class="col">2005-2007</div>
-                        <div class="col">Assisstant cuisinier</div>
-                        <div class="col">Coin de Mire Hotel, île Maurice</div>
+                        <div class="col text-left">2005-2007</div>
+                        <div class="col text-left">Assistant cuisinier</div>
+                        <div class="col text-left">Coin de Mire Hotel, île Maurice</div>
                     </div>
                 </div>
             </div>
@@ -120,10 +120,68 @@
                     <h3 class="text-left">Compétences et qualités</h3>
                     <hr>
                     <div class="row">
+                        <div class="col text-left">HTML/CSS</div>
+                        <div class="col">
+                            <div class="progress">
+                                <div class="progress-bar progress-bar-striped progress-bar-animated w-100" role="progressbar" aria-valuenow="100" aria-valuemin="0" aria-valuemax="100"></div>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="row">
+                        <div class="col text-left">Javascript-JQUERY</div>
+                        <div class="col">
+                            <div class="progress">
+                                <div class="progress-bar progress-bar-striped progress-bar-animated w-100" role="progressbar" aria-valuenow="100" aria-valuemin="0" aria-valuemax="100"></div>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="row">
+                        <div class="col text-left">WEB Responsive</div>
+                        <div class="col">
+                            <div class="progress">
+                                <div class="progress-bar progress-bar-striped progress-bar-animated w-100" role="progressbar" aria-valuenow="100" aria-valuemin="0" aria-valuemax="100"></div>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="row">
+                        <div class="col text-left">NODE JS</div>
+                        <div class="col">
+                            <div class="progress">
+                                <div class="progress-bar progress-bar-striped progress-bar-animated w-75" role="progressbar" aria-valuenow="75" aria-valuemin="0" aria-valuemax="100"></div>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="row">
+                        <div class="col text-left">PHP</div>
+                        <div class="col">
+                            <div class="progress">
+                                <div class="progress-bar progress-bar-striped progress-bar-animated w-75" role="progressbar" aria-valuenow="75" aria-valuemin="0" aria-valuemax="100"></div>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="row">
+                        <div class="col text-left">MONGO DB</div>
+                        <div class="col">
+                            <div class="progress">
+                                <div class="progress-bar progress-bar-striped progress-bar-animated w-100" role="progressbar" aria-valuenow="100" aria-valuemin="0" aria-valuemax="100"></div>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="row">
+                        <div class="col text-left">MYSQL</div>
+                        <div class="col">
+                            <div class="progress">
+                                <div class="progress-bar progress-bar-striped progress-bar-animated w-75" role="progressbar" aria-valuenow="75" aria-valuemin="0" aria-valuemax="100"></div>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="row">
                         <div class="col text-left">Gestion du personnel et stock, autonomie, capacité à travailler sous stress et en équipe, perfectionnisme</div>
                     </div>
                 </div>
             </div>
+
+
         </div>
     </div>
 </template>
